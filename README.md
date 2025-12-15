@@ -80,7 +80,7 @@
 ---
 ## 🖼️ Скриншоты программы
 
-![Расчет инерции шара](InertiaCalculatorHybrid5\screenshots\1.png)
+![Расчет инерции шара](D:\InertiaCalculatorHybrid5\screenshots\1.png)
 ![Расчет инерции параллелепипеда](InertiaCalculatorHybrid5\screenshots\2.png)
 ![Расчет инерции цилиндра](InertiaCalculatorHybrid5\screenshots\3.png)
 ![Вкладка инструкция](InertiaCalculatorHybrid5\screenshots\4.png)
