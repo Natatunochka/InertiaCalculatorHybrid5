@@ -1,0 +1,4 @@
+C:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build/CMakeFiles/inertia.dir
+C:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build/CMakeFiles/inertia_cli.dir
+C:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build/CMakeFiles/ZERO_CHECK.dir

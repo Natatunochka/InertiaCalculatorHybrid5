@@ -1,0 +1,70 @@
+EXPORTS 
+	??_R0?AVBody@@@8 	 DATA
+	??_R0?AVBox@@@8 	 DATA
+	??_R0?AVCylinder@@@8 	 DATA
+	??_R0?AVSphere@@@8 	 DATA
+	??_R0?AVexception@std@@@8 	 DATA
+	??_R0?AVinvalid_argument@std@@@8 	 DATA
+	??_R0?AVlogic_error@std@@@8 	 DATA
+	_Avx2WmemEnabledWeakValue 	 DATA
+	??$pow@NH$0A@@@YANNH@Z
+	??0Body@@QEAA@AEBV0@@Z
+	??0Body@@QEAA@XZ
+	??0Box@@QEAA@$$QEAV0@@Z
+	??0Box@@QEAA@AEBV0@@Z
+	??0Box@@QEAA@NNN@Z
+	??0Cylinder@@QEAA@$$QEAV0@@Z
+	??0Cylinder@@QEAA@AEBV0@@Z
+	??0Cylinder@@QEAA@NN@Z
+	??0Sphere@@QEAA@$$QEAV0@@Z
+	??0Sphere@@QEAA@AEBV0@@Z
+	??0Sphere@@QEAA@N@Z
+	??0exception@std@@QEAA@AEBV01@@Z
+	??0exception@std@@QEAA@QEBD@Z
+	??0invalid_argument@std@@QEAA@AEBV01@@Z
+	??0invalid_argument@std@@QEAA@PEBD@Z
+	??0logic_error@std@@QEAA@AEBV01@@Z
+	??0logic_error@std@@QEAA@PEBD@Z
+	??1Body@@UEAA@XZ
+	??1Box@@UEAA@XZ
+	??1Cylinder@@UEAA@XZ
+	??1Sphere@@UEAA@XZ
+	??1exception@std@@UEAA@XZ
+	??1invalid_argument@std@@UEAA@XZ
+	??1logic_error@std@@UEAA@XZ
+	??4Body@@QEAAAEAV0@AEBV0@@Z
+	??4Box@@QEAAAEAV0@$$QEAV0@@Z
+	??4Box@@QEAAAEAV0@AEBV0@@Z
+	??4Cylinder@@QEAAAEAV0@$$QEAV0@@Z
+	??4Cylinder@@QEAAAEAV0@AEBV0@@Z
+	??4Sphere@@QEAAAEAV0@$$QEAV0@@Z
+	??4Sphere@@QEAAAEAV0@AEBV0@@Z
+	??_7Body@@6B@
+	??_7Box@@6B@
+	??_7Cylinder@@6B@
+	??_7Sphere@@6B@
+	??_7exception@std@@6B@
+	??_7invalid_argument@std@@6B@
+	??_7logic_error@std@@6B@
+	?calculateMass@Box@@UEBANN@Z
+	?calculateMass@Cylinder@@UEBANN@Z
+	?calculateMass@Sphere@@UEBANN@Z
+	?calculateMomentOfInertia@Box@@UEBANN@Z
+	?calculateMomentOfInertia@Cylinder@@UEBANN@Z
+	?calculateMomentOfInertia@Sphere@@UEBANN@Z
+	?getDimensions@Box@@QEBAXAEAN00@Z
+	?getDimensions@Cylinder@@QEBAXAEAN0@Z
+	?getName@Box@@UEBAPEBDXZ
+	?getName@Cylinder@@UEBAPEBDXZ
+	?getName@Sphere@@UEBAPEBDXZ
+	?getRadius@Sphere@@QEBANXZ
+	?what@exception@std@@UEBAPEBDXZ
+	calculate_moment
+	create_box
+	create_cylinder
+	create_sphere
+	delete_body
+	get_body_name
+	get_box_dimensions
+	get_cylinder_dimensions
+	get_sphere_radius

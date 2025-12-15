@@ -1,0 +1,4 @@
+D:/InertiaCalculatorHybrid5/build/CMakeFiles/inertia.dir
+D:/InertiaCalculatorHybrid5/build/CMakeFiles/inertia_cli.dir
+D:/InertiaCalculatorHybrid5/build/CMakeFiles/ALL_BUILD.dir
+D:/InertiaCalculatorHybrid5/build/CMakeFiles/ZERO_CHECK.dir

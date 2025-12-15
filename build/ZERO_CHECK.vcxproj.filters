@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\InertiaCalculatorHybrid5\build\CMakeFiles\9ef54e2525e0d8653ae97b063636cb3d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4312223A-04E5-3BB6-BA04-0C12C6A6EADF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

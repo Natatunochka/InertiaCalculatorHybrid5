@@ -1,0 +1,10 @@
+^C:\USERS\Y3671\DESKTOP\INERTIACALCULATORHYBRID\CPP\BUILD\CMAKEFILES\79FCAD1D6B919D44995796D17FF982C2\GENERATE.STAMP.RULE
+setlocal
+D:\bin\cmake.exe -SC:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp -BC:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/y3671/desktop/InertiaCalculatorHybrid/cpp/build/InertiaCalculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
